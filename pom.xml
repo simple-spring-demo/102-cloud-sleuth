@@ -11,8 +11,8 @@
     <groupId>com.sxqibo.spring</groupId>
     <artifactId>spring</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>001-spring-boot</name>
-    <description>001-spring-boot</description>
+    <name>102-cloud-sleuth</name>
+    <description>102-cloud-sleuth</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
